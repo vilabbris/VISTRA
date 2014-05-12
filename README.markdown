@@ -4,6 +4,8 @@ MATLAB Image & Video Compression Demos
 Demonstration applications and related code for teaching the principles and
 implementations of image and video compression techniques.
 
+Please refer to the accompanying user manual for more information.
+
 # Quick Start
 
 Begin the home demo screen with the command `start` in the root directory
@@ -40,12 +42,12 @@ The following packages are included:
 License & Authors
 -----------------
 
-Copyright 2011, The University Of Bristol
+Copyright 2014, The University Of Bristol
 See License.m for the project code license.
 
 Authors:
 
-* [Stephen Ierodiaconou](http://www.stephenierodiaconou.com/)
+* [Stephen Ierodiaconou](http://www.stephenierodiaconou.com/), Aaron Zhang, Dave Bull and Alex Mackin
 
 Third party components are copyright their respective owners:
 
