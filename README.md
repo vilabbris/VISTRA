@@ -47,8 +47,7 @@ See License.m for the project code license.
 
 Authors:
 
-* [Stephen Ierodiaconou](http://www.stephenierodiaconou.com/), Aaron Zhang, Dave Bull and Alex Mackin
-
+* [Stephen Ierodiaconou](http://www.stephenierodiaconou.com/), Aaron Zhang, Alex Mackin and Dave Bull
 Third party components are copyright their respective owners:
 
 * [N-D discrete cosine transform](https://sites.google.com/site/myronenko/) - Andriy Myronenko, 2010
